@@ -25,6 +25,7 @@ public class AccountUser {
         this.email = email;
     }
 
+    
     // getter와 setter 메서드
     public Long getId() {
         return id;
